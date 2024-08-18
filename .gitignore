@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cython debug symbols
+cython_debug/
+
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+*.egg
+
+# SQLite database file
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Pytest cache
+.cache/
+
+# mypy
+.mypy_cache/
+
+# Pylint
+.pylint.d/
+
+# VS Code settings
+.vscode/
+
+# IDE files
+.idea/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+Desktop.ini
